@@ -1,0 +1,6 @@
+OffScreenDen_ZD: 96><-15><0><-20><0><
+ZD_Hub: 354><-273><0><-70><0><
+ZD_Stemp: 501><-96><40><-110><0><
+GATE_VS_ZD: 612><-273><0><-70><0><
+Connection: ZD_Hub,ZD_Stemp,46,27,27,18,0,3
+Connection: ZD_Hub,GATE_VS_ZD,46,11,2,9,0,2

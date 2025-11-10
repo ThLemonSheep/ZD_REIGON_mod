@@ -1,0 +1,8 @@
+{
+    "id": "chemplant",
+    "name": "Chem Plant",
+    "version": "0.3",
+    "authors": "The Dapper Slapper",
+    "description": "modder posts worst reigon ever is asked to ascend themselfs now",
+	"requirements": ["regionkit","crs"]
+}
